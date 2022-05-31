@@ -47,10 +47,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://kumaarbalbir.github.io/Portfolio/"><img alt="Website" src="https://kumaarbalbir.github.io/Portfolio/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/balbir-prasad-362aa2121/"><img alt="LinkedIn" src="https://www.linkedin.com/in/balbir-prasad-362aa2121/-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/kumaarbalbir/?hl=en"><img alt="Instagram" src="https://www.instagram.com/kumaarbalbir/?hl=en-blue?style=flat-square&logo=instagram"></a>
-<a href="prasadbalbir1056@gmail.com"><img alt="Email" src="https://www.instagram.com/kumaarbalbir/?hl=en-blue?style=flat-square&logo=gmail"></a>
+&nbsp; <a href="https://twitter.com/BalbirKumaar" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/kumaarbalbir/?hl=en" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/balbir-prasad-362aa2121/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:prasadbalbir1056@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
 ⭐️ From [KumaarBalbir](https://github.com/KumaarBalbir)
