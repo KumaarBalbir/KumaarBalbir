@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Mining Engineering and programming at IIT(ISM) dhanbad.
 - 💼 &nbsp; Web developer frontend and backend.
 - 🌱 &nbsp; Learning more about web development and Machine Learning.
-- ✍️ &nbsp; Meanwhile I sing sometimes out of my heart..haha
+- 🎙 &nbsp; Meanwhile I love to sing in my spare time..haha
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
