@@ -19,6 +19,12 @@
   
 - 🌐 &nbsp;
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow)
+  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)
+  ![numpy](https://img.shields.io/badge/-numpy-333333?style=flat&logo=numpy)
+  ![matplotlib](https://img.shields.io/badge/-matplotlib-333333?style=flat&logo=matplotlib)
+  ![opencv](https://img.shields.io/badge/-opencv-333333?style=flat&logo=opencv)
+  
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
