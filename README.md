@@ -4,10 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring and learning technologies and trying to create value using them.
 - 🎓 &nbsp; Studying Mining Engineering and programming at IIT(ISM) dhanbad.
-- 💼 &nbsp; Web developer frontend and backend.
-- 🌱 &nbsp; Learning more about web development and Machine Learning.
+- 💼 &nbsp; Machine learning, computer vision & Web development.
+- 🌱 &nbsp; Learning about open-source contribution along with ML, Web
 - 🎙 &nbsp; Meanwhile I love to sing in my spare time..haha
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
