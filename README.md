@@ -5,9 +5,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring and learning technologies and trying to create value using them.
-- 🎓 &nbsp; Studying Mining Engineering and programming at IIT(ISM) dhanbad.
+- 🎓 &nbsp; Undergraduate at IIT(ISM) dhanbad.
 - 💼 &nbsp; Machine learning, computer vision & Web development.
-- 🌱 &nbsp; Learning about open-source contribution along with ML, Web
+- 🌱 &nbsp; Learning about web dev and ML.
 - 🎙 &nbsp; Meanwhile I love to sing in my spare time..haha
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
