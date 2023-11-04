@@ -6,9 +6,9 @@
 
 - 🤔 &nbsp; Exploring and learning technologies and trying to create value using them.
 - 🎓 &nbsp; Undergraduate at IIT(ISM) dhanbad.
-- 💼 &nbsp; Machine learning, computer vision & Web development.
-- 🌱 &nbsp; Learning about web dev and ML.
-- 🎙 &nbsp; Meanwhile I love to sing in my spare time..haha
+- 💼 &nbsp; Software dev with focus on AI.
+- 🌱 &nbsp; Interests include Theoretical CS & ML.
+- Ψ  &nbsp;  I love to read Physics and mysteries of the Universe!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
