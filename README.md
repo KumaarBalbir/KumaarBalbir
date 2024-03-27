@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring and learning different software technologies.
+- 💻 &nbsp; Exploring and learning different software technologies.
 - 🎓 &nbsp; Final year ug at IIT(ISM) Dhanbad.
 - 🌱 &nbsp; please take care of trees and plants.
 
