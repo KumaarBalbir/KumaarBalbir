@@ -7,7 +7,6 @@
 - 🤔 &nbsp; Exploring and learning different software technologies.
 - 🎓 &nbsp; Final year ug at IIT(ISM) Dhanbad.
 - 🌱 &nbsp; please take care of trees and plants.
-- ♪  &nbsp;  Love listening to music!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
