@@ -4,11 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring and learning technologies and trying to create value using them.
-- 🎓 &nbsp; Undergraduate at IIT(ISM) dhanbad.
-- 💼 &nbsp; Software dev with focus on AI.
-- 🌱 &nbsp; Interests include Theoretical CS & ML.
-- Ψ  &nbsp;  I love to read Physics and mysteries of the Universe!
+- 🤔 &nbsp; Exploring and learning different software technologies.
+- 🎓 &nbsp; Final year ug at IIT(ISM) Dhanbad.
+- 🌱 &nbsp; please take care of trees and plants.
+- ♪  &nbsp;  Love listening to music!
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
