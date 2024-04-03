@@ -6,7 +6,8 @@
 
 - 💻 &nbsp; Exploring and learning different software technologies.
 - 🎓 &nbsp; Final year ug at IIT(ISM) Dhanbad.
-- 🌱 &nbsp; please take care of trees and plants.
+- 🌱 &nbsp; please take care of trees.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -42,10 +43,14 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KumaarBalbir&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumaarBalbir&theme=buefy&layout=compact" />
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/KumaarBalbir">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KumaarBalbir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KumaarBalbir&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
 
 <br/>
 
