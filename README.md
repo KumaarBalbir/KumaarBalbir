@@ -5,6 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💻 &nbsp; Exploring and learning different software technologies.
+- 👨‍💻 &nbsp; Ex- software inter @plaid.co.jp and C++ developer @IISc Bangalore.
 - 🎓 &nbsp; Final year ug at IIT(ISM) Dhanbad.
 - 🌱 &nbsp; please take care of trees.
 
