@@ -5,7 +5,7 @@
 <h3> &nbsp;About Me </h3>
 
 -  &nbsp; Engineering stuffs with code!
--  &nbsp; Prev- software intern @plaid.co.jp and C++ developer @IISc Bangalore.
+-  &nbsp; Prev- software intern [@plaidev](https://github.com/plaidev) and C++ developer [@IISc Bangalore](https://iisc.ac.in/)
 -  &nbsp; Graduated from IIT(ISM) Dhanbad.
 
 
