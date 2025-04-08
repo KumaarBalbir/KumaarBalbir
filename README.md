@@ -35,7 +35,6 @@
 <a href="https://github.com/KumaarBalbir">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KumaarBalbir&show_icons=true&theme=algolia&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KumaarBalbir&layout=compact&langs_count=8&theme=algolia&hide=Jupyter%20Notebook"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KumaarBalbir&theme=algolia" width="400">
 </a>
 </p>
 
